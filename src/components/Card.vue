@@ -35,7 +35,7 @@
   
   <style scoped>
   .card-container {
-    width: 100%; /* Mengatur lebar card sesuai dengan container */
+    width: 100%;
   }
   
   .card-image {

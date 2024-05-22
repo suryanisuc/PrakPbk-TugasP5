@@ -5,13 +5,13 @@
       </q-toolbar>
       <div class="footer-content">
         <div class="footer-section">
-          <q-icon name="location_on" /> Jl. Contoh No. 123, Kota, Negara
+          <q-icon name="location_on" /> Jl. Marpoyan Damai,Pekanbaru, Indonesia
         </div>
         <div class="footer-section">
-          <q-icon name="email" /> example@example.com
+          <q-icon name="email" /> Sucistore@gmail.co.id
         </div>
         <div class="footer-section">
-          <q-icon name="info" /> © 2024 My Online Store
+          <q-icon name="info" /> © 2024 Suci Store
         </div>
       </div>
     </q-footer>
